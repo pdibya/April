@@ -7,3 +7,4 @@ cout<<"Enter two numbers";
 cin>>a>>b;
 result=a+b;
 cout<<"The result is\n"<<result; 
+}
