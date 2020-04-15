@@ -13,3 +13,4 @@ else
 {
 cout<<"You are not eligible to vote\n":
 }
+}
